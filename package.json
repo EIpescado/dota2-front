@@ -1,9 +1,9 @@
 {
-  "name": "chaos",
-  "version": "4.1.0",
-  "description": "A vue admin template with Element UI & axios & iconfont & permission control & lint",
+  "name": "dota2-front",
+  "version": "1.0.0",
+  "description": "后端管理系统前端部分",
   "author": "EIpescado <1724537432@qq.com>",
-  "license": "MIT",
+  "private": true,
   "scripts": {
     "dev": "vue-cli-service serve",
     "build:prod": "vue-cli-service build",
